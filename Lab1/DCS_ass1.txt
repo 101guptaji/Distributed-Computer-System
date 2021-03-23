@@ -1,0 +1,25 @@
+deadline: 20 aug 2020
+Readers' and Writers' problem
+1. Using Reader's priority
+2. using Writer's priority
+Two programs one for Reader's priority and other for Writer's priority each having multipe threads of reader and writer.
+language= C/C++ only
+OS= Linux
+processes/threads
+semaphores/mutex
+PThreads
+shared resource should be a File
+Innovation
+*****No copying*****
+	DOCUMENT
+pseudo code for reader.c and writer.c
+both programs
+decription of both programs in brief.
+brief of semaphores and mutexes that used. 
+no of reader and writer treads
+screenshot of output.
+books: galvin, stalling, tanenbaum.
+
+4 assignments - 25 marks
+
+

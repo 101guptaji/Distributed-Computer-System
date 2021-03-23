@@ -1,0 +1,6 @@
+Lab Assignment-3
+	Implement/Simulate Ricart-Agarwala's distributed mutual exclusion algorithm using C/C++.
+You can consider a single machine/node and no. of processes on that machine.
+
+deadline 2nd nov
+3 student per grp.

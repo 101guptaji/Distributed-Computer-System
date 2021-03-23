@@ -1,0 +1,4 @@
+Steps to run the Ricart-Agarwal aAlgo code
+g++ -o main.out RA.cpp -lpthread
+g++ exec.cpp
+./a.out

@@ -1,0 +1,6 @@
+Deadline: 20 sep. 2020
+		Assignment-2
+1. Implement the file transfer between two nodes using UDP sockets
+2. Transfer files block-by-block
+3. Simulate the failure handling 
+
