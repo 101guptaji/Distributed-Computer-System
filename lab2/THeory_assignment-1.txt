@@ -1,0 +1,8 @@
+The Theory Assignment-1.
+
+For Makewa's distributed mutual exclusion algorithm, answer the following.
+a. Does it suffer from deadlock? b. What is the type of deadlock? 
+b. Explain in detail as to how the deadlock problem is solved?
+c. Given the number of nodes in the system as 10, construct the request sets.
+
+Deadline: 1st Nov. 2020 .

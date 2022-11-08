@@ -1,0 +1,20 @@
+
+you can look at ONC rpc
+ONC rpc is taken care by Oracle
+SUN ONC
+Oracle
+https://docs.oracle.com/cd/E23824_01/html/821-1671/rpcgenpguide-24243.html#scrolltoc
+
+
+rpc specification file
+.x format
+.x is a specification file
+
+Interface definitions
+client stub
+server stub
+rpcgen compiler will generate .h, client stub, server stub
+client side XDR, client stub and client code
+server side, server stub, xdr and server code
+https://www.kernel.org/
+https://www.youtube.com/watch?v=HbBxO5RXNhU

@@ -1,0 +1,10 @@
+model 1:	assume reliable
+model 2:	asynchronous
+model 3:	no node failures
+model 4:	network is not fully connected
+		query node
+		and other nodes
+	a node can send a query to only its neighbours
+	Graph
+	n nodes (vertices) and m edges
+
